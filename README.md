@@ -2,7 +2,7 @@
 
 ## Abstract
 
-- This is a projecr from CS188 : Artificial Intelligence in UC Berkeley on fa21.
+- This projecr is from CS188 : Artificial Intelligence in UC Berkeley on fall 2021.
 - Created the classic version of the Pacman including agents with different characteristics
 - Modified multiAgents.py to implement Minimax tree, Alpha-Beta pruning, Expectimax search
 - Designed an Evaluation function computing rewards of the agents at the given state
