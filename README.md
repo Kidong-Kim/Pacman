@@ -2,6 +2,9 @@
 
 ## Abstract
 
-- Created the classic version of the Pacman including agents with different characteristics using Python
-- Modified multiAgents.py to implemented Minimax tree to find the most optimal move, Alpha-Beta pruning to explore Minimax search tree, and Expectimax search to model probabilistic behavior
+- This is a projecr from CS188 : Artificial Intelligence in UC Berkeley on fa21.
+- Created the classic version of the Pacman including agents with different characteristics
+- Modified multiAgents.py to implement Minimax tree, Alpha-Beta pruning, Expectimax search
 - Designed an Evaluation function computing rewards of the agents at the given state
+
+<a href="https://inst.eecs.berkeley.edu/~cs188/fa21/project2/"> Project description </a>
